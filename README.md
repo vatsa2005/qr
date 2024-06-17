@@ -2,7 +2,9 @@
 
 ## Copy and paste the QrGenerator.js file in your project.
 
-## See App.js for props.
+## Props
+
+- See App.js for props.
 
 ## Dependencies to be installed:
 
